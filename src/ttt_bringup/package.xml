@@ -22,6 +22,7 @@
   <exec_depend>tf2_ros</exec_depend>
   <exec_depend>ttt_engine</exec_depend>
   <exec_depend>ttt_dummy</exec_depend>
+  <exec_depend>ttt_hidden</exec_depend>
   <exec_depend>ttt_layout</exec_depend>
   <exec_depend>ttt_player</exec_depend>
   <exec_depend>ttt_referee</exec_depend>
